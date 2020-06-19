@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const myDir = path.join('C:', 'users', 'swara', 'downloads');
+const myDir = path.join('C:', 'users', 'user', 'downloads');
 const dirimages = path.join(myDir, 'Images')
 const dirvideos = path.join(myDir, 'Videos');
 const diraudios = path.join(myDir, 'Audios');
